@@ -1,4 +1,4 @@
-###  ¯\_(ツ)_/¯¯ Hi there 👋 Nice to meet you. 🍻
+###          ¯¯\_(ツ)_/¯¯ Hi there 👋 Nice to meet you. 🍻
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
