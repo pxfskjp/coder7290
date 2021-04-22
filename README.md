@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**topdeveloper0729/topdeveloper0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+###  ¯\_(ツ)_/¯¯ Hi there 👋 Nice to meet you. 🍻
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
