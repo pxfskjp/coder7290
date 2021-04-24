@@ -1,4 +1,7 @@
-###¯¯\\__(ツ)__/¯¯ Hi there 👋 Nice to meet you. 🍻
+###¯¯\\__(ツ)__/¯¯ Hi there 
+<div align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+</div> Nice to meet you. 🍻
 
 
 ![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=topdeveloper0729&show_icons=true)
