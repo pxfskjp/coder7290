@@ -16,11 +16,3 @@
 ![Django](https://img.shields.io/badge/-Flask-47848F?style=flat-square&logo=Django&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-47848F?style=flat-square&logo=Laravel&logoColor=fff)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-777BB4?style=flat-square&logo=CodeIgniter&logoColor=fff)
-
-
-- 🔭 I’m currently working as a web developer.
-- 🌱 I’m currently learning Python, ML, DL.
-- 👯 I’m looking to collaborate on web development.
-- ⚽ I enjoy sports like Vallyball, Badminton, Ping-Pong. 
--->
-
