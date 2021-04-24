@@ -12,6 +12,7 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=Vue.js&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+<br />
 ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Flask-47848F?style=flat-square&logo=Django&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-47848F?style=flat-square&logo=Laravel&logoColor=fff)
