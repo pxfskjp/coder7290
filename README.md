@@ -1,8 +1,8 @@
 ###          ¯¯\_(ツ)_/¯¯ Hi there 👋 Nice to meet you. 🍻
 
-<a href="https://github.com/topdeveloper0729?tab=repositories">
+<!-- <a href="https://github.com/topdeveloper0729?tab=repositories"> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=topdeveloper0729&show_icons=true&hide_border=true&hide_rank=true" width="300px" />
-</a>
+<!-- </a> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topdeveloper0729&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
