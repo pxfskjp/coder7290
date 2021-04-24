@@ -3,9 +3,10 @@
 <!-- <a href="https://github.com/topdeveloper0729?tab=repositories"> -->
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=topdeveloper0729&show_icons=true&hide_border=true&hide_rank=true" /> -->
 <!-- </a> -->
-
-![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=topdeveloper0729&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topdeveloper0729&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/topdeveloper0729?tab=repositories">
+  ![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=topdeveloper0729&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topdeveloper0729&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ </a>
 
 
 <!-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
