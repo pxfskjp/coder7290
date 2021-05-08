@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topdeveloper0729&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![Topdeveloper0729's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Topdeveloper0729)](https://github.com/Topdeveloper0729/github-readme-stats)
+[![Topdeveloper0729's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Topdeveloper0729)](https://github.com/anuraghazra/github-readme-stats)
 
 <table><tr>
     <td valign="top" width="50%">
