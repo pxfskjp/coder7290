@@ -29,8 +29,7 @@
             <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
             <img style="margin: 10px" alt="Django" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/django/django.png" />
             <img style="margin: 10px" alt="Flask" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flask/flask.png" />
-            <img style="margin: 10px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
-            <img style="margin: 10px" alt="Apollo" height="50" src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" />  
+            <img style="margin: 10px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" /> 
             <img style="margin: 10px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
         </div></td><td valign="top" width="50%">
         <div align="center">
