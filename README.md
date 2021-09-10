@@ -12,8 +12,8 @@
 
 <hr />
 
-![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiago-romero-dev&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-romero-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder7290&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7290&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <table><tr>
     <td valign="top" width="50%">
