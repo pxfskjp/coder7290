@@ -48,5 +48,9 @@
             <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/>
         </div>
     </td>
-</tr></table>  
+</tr>
+<tr>
+        <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
+    </tr>
+</table>  
 <hr/>
