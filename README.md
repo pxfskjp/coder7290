@@ -49,8 +49,6 @@
         </div>
     </td>
 </tr>
-<tr>
-        <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
-    </tr>
 </table>  
 <hr/>
+<div> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
