@@ -8,6 +8,8 @@
     <a href="https://github.com/topdev0729/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
     </a>
+</div>
+<div align="center" style="margin: 20px 0">
     <!-- Followers -->
     <a href="https://github.com/coder7290?tab=followers">
         <img width="150px" src="https://img.shields.io/github/followers/Jiganesh?style=flat-square">
@@ -56,4 +58,5 @@
 </table>  
 <hr/>
 <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-[![Coder7290's github activity graph](https://activity-graph.herokuapp.com/graph?username=coder7290&theme=xcode)](https://github.com/coder7290)
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=coder7290&theme=xcode" /></div>(https://github.com/coder7290)
+[![Coder7290's github activity graph] (https://activity-graph.herokuapp.com/graph?username=coder7290&theme=xcode)](https://github.com/coder7290)
