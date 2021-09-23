@@ -9,10 +9,10 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
     </a>
 </div>
-<div align="center" style="margin: 20px 0">
+<div align="center" style="margin: 40px 0">
     <!-- Followers -->
     <a href="https://github.com/coder7290?tab=followers">
-        <img width="150px" src="https://img.shields.io/github/followers/Jiganesh?style=flat-square">
+        <img width="120px" height="25px" style="border-radius: 5px" src="https://img.shields.io/github/followers/Jiganesh?style=flat-square">
     </a>
 </div>
 
