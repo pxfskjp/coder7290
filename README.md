@@ -14,14 +14,16 @@
     </a>
 </div>
 <br /><br />
+    
 ### A Bit About Me:
+    
 <br />
 <b>Your success is my success.</b><br />
 Making something that is visible to others, something that touches people, something that can be experienced.<br />
 With a passion for everything that is fair, traditional, and socially responsible, I make a strong case for you!<br />
 I would like to introduce myself as an energetic person who takes your business seriously, in an accessible and open way.<br />
 After my work experience in IT, over the past five years, I have developed many modern-style websites using modern libraries like React, Angular.<br />
-Then, I used to complete the projects, both ahead of schedule and within budget. <br />
+Then, I used to complete the projects, both ahead of schedule and within budget.
 My favorite part about web design is building a solution that impresses the client and meets the needs of users and customers.<br />
 Also, I am a proven team player who has teamwork traits, including reliability, good communication, commitment, adaptability.<br />
 I am available to work full-time for your business.<br />
