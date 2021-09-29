@@ -13,11 +13,10 @@
         <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/coder7290?style=flat-square">
     </a>
 </div>
-<br /><br />
+<br />
     
 ### A Bit About Me:
-    
-<br />
+
 <b>Your success is my success.</b><br />
 Making something that is visible to others, something that touches people, something that can be experienced.<br />
 With a passion for everything that is fair, traditional, and socially responsible, I make a strong case for you!<br />
