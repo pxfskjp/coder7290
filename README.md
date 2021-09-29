@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
-</div>
+<h1>Hi there, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 <h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
 
@@ -16,6 +14,17 @@
     </a>
 </div>
 
+    <b>Your success is my success.</b>
+    Making something that is visible to others, something that touches people, something that can be experienced.
+    With a passion for everything that is fair, traditional, and socially responsible, I make a strong case for you!
+    I would like to introduce myself as an energetic person who takes your business seriously, in an accessible and open way.
+    After my work experience in IT, over the past five years, I have developed many modern-style websites using modern libraries like React, Angular.
+    Then, I used to complete the projects, both ahead of schedule and within budget. 
+    My favorite part about web design is building a solution that impresses the client and meets the needs of users and customers.
+    Also, I am a proven team player who has teamwork traits, including reliability, good communication, commitment, adaptability.
+    I am available to work full-time for your business.
+    Let's make a good experience with me.
+    
 <hr />
 
 ![Coder7290's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder7290&show_icons=true&theme=dark)
