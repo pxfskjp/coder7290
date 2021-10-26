@@ -39,8 +39,8 @@ Let's make a good experience with me.
 <br />
 <hr />
 
-![Coder7290's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder7290&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder7290&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+![Coder7290's GitHub stats](<div style="width: 50%">https://github-readme-stats.vercel.app/api?username=coder7290&show_icons=true&theme=dark</div>)
+[![Top Langs](<div style="width: 40%">https://github-readme-stats.vercel.app/api/top-langs/?username=coder7290&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats</div>) 
 
 <table><tr>
     <td valign="top" width="50%">
